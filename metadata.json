@@ -1,0 +1,6 @@
+{
+  "name": "XTRA METOD YO SI OCONSOLE",
+  "description": "Consola avanzada para ajustes ocultos de Android, administrador de paquetes, Engineer Mode y consola ADB interactiva con sistema de suscripción premium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
